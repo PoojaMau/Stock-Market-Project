@@ -27,7 +27,7 @@ def plot_chart(symbol):
 st.title("Stock Market App")
 
 # Add a subheader showing author name
-st.subheader("by Pooja Nimbalkar")
+st.subheader("by Pooja Navale")
 
 # Take company name as input from user
 company = st.text_input("Company Name : ")
